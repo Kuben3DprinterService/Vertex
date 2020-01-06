@@ -2,9 +2,9 @@
 [bilde]
 
 ## Deltaker
-- Navnliste
 
-  William
+  - William
+  - Morten
 
 ## Status
 
