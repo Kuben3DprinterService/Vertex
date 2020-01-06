@@ -8,6 +8,7 @@
   - Jiwen
   - Abdinasir
   - Bashir
+  - Nico
   
 ## Status
 
