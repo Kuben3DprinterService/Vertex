@@ -6,7 +6,8 @@
   - William
   - Morten
   - Jiwen
-
+  - Abdinasir
+  
 ## Status
 
 ## Specifikasjoner
