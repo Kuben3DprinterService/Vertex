@@ -6,7 +6,7 @@
   - William
   - Morten
   - Jiwen
-  - Habdinasir
+  - Abdinasir
   - Bashir
   
 ## Status
