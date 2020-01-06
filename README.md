@@ -4,6 +4,8 @@
 ## Deltaker
 - Navnliste
 
+  William
+
 ## Status
 
 ## Specifikasjoner
