@@ -7,6 +7,7 @@
   - Morten
   - Jiwen
   - Abdinasir
+  - Bashir
   
 ## Status
 
