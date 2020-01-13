@@ -13,8 +13,16 @@
 ## Status
 
 ## Specifikasjoner
-http://www.velleman.co.uk/contents/en-uk/k8400d.pdf
-https://manuals.velleman.eu/category.php?id=2/
+
+Datasheet
+  - http://www.velleman.co.uk/contents/en-uk/k8400d.pdf
+
+Manual
+  - https://manuals.velleman.eu/category.php?id=2/
+
+Nedlastingsside
+  - https://vertex3dprinter.eu/downloads/vertex-downloads/
+
 ## Mangende deler
 
 ## Ting som må fikses
