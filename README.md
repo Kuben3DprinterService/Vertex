@@ -1,5 +1,5 @@
 # Vertex 3D printer
-![Vertex k8400 3D printer](images\k8400.jpg)
+![Vertex k8400 3D printer](k8400.jpg)
 
 ## Deltaker
 
