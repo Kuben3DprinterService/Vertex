@@ -23,6 +23,10 @@ Manual
 Nedlastingsside
   - https://vertex3dprinter.eu/downloads/vertex-downloads/
 
+### Bevegelsessystem
+Vertex bruker et beltesystem bygget opp av 4 belter i en firkant i toppen av 3d printeren. Beltene er koblet til 2 andre belter, som er koblet til 2 motorer.
+Platformen til 3d printeren kan gå opp og ned sånn at printeren kan printe i høyden.
+
 ## Mangende deler
 
 ## Ting som må fikses
