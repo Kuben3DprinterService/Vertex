@@ -27,3 +27,5 @@ Nedlastingsside
 
 ## Ting som må fikses
 
+Belte
+  - Beltet på 3d printer er for slakk og må strammes på en måte.
