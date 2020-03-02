@@ -33,3 +33,10 @@ Platformen til 3d printeren kan gå opp og ned sånn at printeren kan printe i h
 
 Belte
   - Beltet på 3d printer er for slakk og må strammes på en måte.
+
+
+
+
+Stepper Drivere
+  -Den bruker DRV8825 Stepper drivere
+  -STEP og DIR pins er de "interessante", DIR pinen styrer retning og STEP styrer "fart" på motor.
